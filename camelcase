@@ -1,0 +1,4 @@
+import camelcase
+x=camelcase.CamelCase()
+a="hi there this is mahth"
+print(x.hump(a))
